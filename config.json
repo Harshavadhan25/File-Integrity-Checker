@@ -1,0 +1,8 @@
+{
+  "hash_algorithm": "sha256",
+  "monitor_paths": [
+    "C:/Windows/System32/drivers/etc",
+    "C:/Logs",
+    "./test_directory"
+  ]
+}
